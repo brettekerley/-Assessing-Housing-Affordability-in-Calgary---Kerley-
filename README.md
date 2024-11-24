@@ -35,9 +35,6 @@ Special thanks to:
 
 ## Data Folder
 
-Attribution is required. Learn more: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-
-
 transit_stations.csv 
 [Transit_LRT_Stations_20241124.csv](https://github.com/user-attachments/files/17894815/Transit_LRT_Stations_20241124.csv)
 
@@ -45,12 +42,12 @@ transit_stations.csv
 Park_sites.csv  [Parks_Sites_20241124.csv](https://github.com/user-attachments/files/17894807/Parks_Sites_20241124.csv) 
 
 Schools_Calgary.csv
-[Schools_20241124.csv](https://github.com/user-attachments/files/17894840/Schools_20241124.csv)[Transit_LRT_Stations_20241124 2.csv]
+[Schools_20241124.csv](https://github.com/user-attachments/files/17894840/Schools_20241124.csv)
 
 
 ## Map Folder 
 
-map_housing_prices_near_transit.pdf: [map_housing_prices_near_transit.pdf](https://github.com/user-attachments/files/17894762/map_housing_prices_near_transit.pdf)
+map_housing_prices_near_transit.pdf: [map_housing_prices_near_transit.pdf](https://github.com/user - attachments/files/17894762/map_housing_prices_near_transit.pdf)
 - A thematic map showing housing prices in Calgary with markers for transit stations.
 
 map_parks_proximity_vs_prices.pdf: [map_parks_proximity_vs_prices.pdf](https://github.com/user-attachments/files/17894763/map_parks_proximity_vs_prices.pdf)
@@ -66,6 +63,3 @@ housing_prices_calculated.pdf: [housing_prices_calculated.pdf](https://github.co
 - City of Calgary Open Data Portal. (2021). Property Assessment Data. Retrieved from https://data.calgary.ca
 - Calgary Real Estate Board. (2021). Housing Market Trends. Retrieved from https://www.creb.ca
 - Statistics Canada. (2021). Census Data. Retrieved from https://www.statcan.gc.ca
-
-
-[Parks_Sites_20241124.csv](https://github.com/user-attachments/files/17894807/Parks_Sites_20241124.csv)
